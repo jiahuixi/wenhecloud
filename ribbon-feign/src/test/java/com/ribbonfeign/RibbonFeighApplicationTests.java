@@ -1,4 +1,4 @@
-package com.ribbonfeigh;
+package com.ribbonfeign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
