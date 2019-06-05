@@ -13,4 +13,5 @@ feign:
 
 spring.cloud.config.label: master
 spring.cloud.config.profile: dev
-spring.cloud.config.uri:  http://localhost:10005/
+spring.cloud.config.discovery.enabled: true
+spring.cloud.config.discovery.serviceId: config-server
